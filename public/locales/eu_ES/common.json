@@ -1,5 +1,6 @@
 {
     "title": "Proyecto i18n NextJS",
     "spanish": "Español",
-    "english": "Ingles"
+    "english": "Ingles",
+    "extra-key": ""
 }
